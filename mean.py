@@ -1,3 +1,6 @@
+# comment1
+#comment2
+#comment3
 # Print the mean of numbers given as argument
 # mean.py
 import sys
